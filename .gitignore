@@ -1,0 +1,14 @@
+*.class
+*.iml
+npm-debug.log
+target/
+.idea/
+node_modules/
+dist/
+**/node/
+
+# OSX
+.DS_Store
+
+nohup.out
+package-lock.json
